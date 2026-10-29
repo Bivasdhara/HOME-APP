@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="app_subtitle">ESP8266 IoT Controller</string>
+    <string name="connecting">কানেক্ট হচ্ছে...</string>
+    <string name="connected">কানেক্টেড</string>
+    <string name="disconnected">ডিসকানেক্টেড</string>
+    <string name="light">আলো (Light)</string>
+    <string name="fan_power">ফ্যান (Fan)</string>
+    <string name="socket">সকেট (Socket)</string>
+    <string name="lamp">নাইট ল্যাম্প (Lamp)</string>
+    <string name="fan_speed">ফ্যান স্পিড (সার্ভো)</string>
+    <string name="mode_manual">🖐️ ম্যানুয়াল</string>
+    <string name="mode_auto">❄️ অটো (স্মার্ট এসি)</string>
+</resources>
